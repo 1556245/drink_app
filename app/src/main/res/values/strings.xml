@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drink app</string>
+    <string name="fav_drink">what is your favourite drink</string>
+    <string name="orange_juice">Orange Juice</string>
+</resources>
