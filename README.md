@@ -1,7 +1,9 @@
 #                           Drink shop app 
 
+## This is the app 
+![drink app GIF](https://github.com/user-attachments/assets/a39c6aea-7716-4ff3-a5e8-55e4be2c4b69)
 
-
+## Screenshots
 ![image](https://github.com/user-attachments/assets/b2f93cc6-4c3b-483a-a305-1861b754f1b6)
 
 ## This is the drink menu
